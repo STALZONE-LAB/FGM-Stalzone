@@ -1,0 +1,40 @@
+{
+  "name": "Beril",
+  "description": "",
+  "type": "combat",
+  "how_to_get": [
+  ],
+  "where_using": [
+  ],
+  "stats": {
+    "id": 12610,
+    "localName": "Берилл-5",
+    "description": "description",
+    "texName": "beril",
+    "modelName": "beril",
+    "clan": "",
+    "bullet": 9,
+    "antiRadiation": 10,
+    "antiPsy": 0,
+    "antiBio": 10,
+    "antiTermo": 10,
+    "electro": 10,
+    "outRadiation": 0,
+    "outBio": 0,
+    "outPsy": 0,
+    "outTermo": 0,
+    "razriv": 15,
+    "speed": 0,
+    "regeneration": 0,
+    "himBurn": 0,
+    "burn": 0,
+    "weight": 20.0,
+    "normalMap": true,
+    "metallicMap": false,
+    "roughnessMap": false,
+    "emissionMap": false,
+    "haveHead": true
+  },
+  "icon": "",
+  "price_to_sell": ""
+}

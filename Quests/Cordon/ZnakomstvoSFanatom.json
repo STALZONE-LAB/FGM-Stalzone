@@ -1,0 +1,13 @@
+{
+  "title": "Знакомство с Фанатом",
+  "description": "",
+  "location": "Кордон",
+  "side": "Сталкер",
+  "previous_quest": "",
+  "next_quest": "Труп Искателя",
+  "type": "Сюжетный",
+  "NPC": "Сидорович",
+  "NPC_to_solve": "Фанат",
+  "required_items": [],
+  "rewards": []
+}
