@@ -1,0 +1,15 @@
+{
+  "name": "Собака",
+  "description": "",
+  "loot": [
+    "Хвост собаки",
+  ],
+  "loot_quantity": [
+    "Хвост собаки от 1 до 4"
+  ],
+  "spawn_locations": [
+    ""
+  ],
+  "hp": "",
+  "damage": ""
+}
